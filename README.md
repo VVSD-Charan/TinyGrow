@@ -1,6 +1,5 @@
 # TinyGrow
-### TinyGrow is an E-commerce website which is a dedicated online platform for plant lovers, offering a wide selection of exquisite and healthy nursery plants to transform 
-### spaces into lush, vibrant havens.
+### TinyGrow is an E-commerce website which is a dedicated online platform for plant lovers, offering a wide selection of exquisite and healthy nursery plants to transform spaces into lush, vibrant havens.
 
 ## Tech stack used  :  HTML, CSS , Bootstrap , PHP , MySQL.
 
